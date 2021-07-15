@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\DesignPatternLesson\bin\Debug\netcoreapp3.1\DesignPatternLesson.exe
+C:\Users\USER\source\repos\DesignPatternLesson\bin\Debug\netcoreapp3.1\DesignPatternLesson.deps.json
+C:\Users\USER\source\repos\DesignPatternLesson\bin\Debug\netcoreapp3.1\DesignPatternLesson.runtimeconfig.json
+C:\Users\USER\source\repos\DesignPatternLesson\bin\Debug\netcoreapp3.1\DesignPatternLesson.runtimeconfig.dev.json
+C:\Users\USER\source\repos\DesignPatternLesson\bin\Debug\netcoreapp3.1\DesignPatternLesson.dll
+C:\Users\USER\source\repos\DesignPatternLesson\bin\Debug\netcoreapp3.1\DesignPatternLesson.pdb
+C:\Users\USER\source\repos\DesignPatternLesson\obj\Debug\netcoreapp3.1\DesignPatternLesson.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\DesignPatternLesson\obj\Debug\netcoreapp3.1\DesignPatternLesson.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\DesignPatternLesson\obj\Debug\netcoreapp3.1\DesignPatternLesson.AssemblyInfo.cs
+C:\Users\USER\source\repos\DesignPatternLesson\obj\Debug\netcoreapp3.1\DesignPatternLesson.dll
+C:\Users\USER\source\repos\DesignPatternLesson\obj\Debug\netcoreapp3.1\DesignPatternLesson.pdb
+C:\Users\USER\source\repos\DesignPatternLesson\obj\Debug\netcoreapp3.1\DesignPatternLesson.genruntimeconfig.cache
+C:\Users\USER\source\repos\DesignPatternLesson\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\USER\source\repos\DesignPatternLesson\obj\Debug\netcoreapp3.1\DesignPatternLesson.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DesignPatternLesson\obj\Debug\netcoreapp3.1\DesignPatternLesson.csproj.CopyComplete
